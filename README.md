@@ -1,5 +1,12 @@
 # deepseek-code-agent
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/deepseek-code-agent/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/deepseek-code-agent/actions)
+![License](https://img.shields.io/github/license/yksanjo/deepseek-code-agent)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/deepseek-code-agent)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/deepseek-code-agent)
+
 ## Detailed Description
 
 deepseek-code-agent is maintained as an industry-grade software project with production-ready engineering practices.  
